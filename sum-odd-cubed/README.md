@@ -2,4 +2,4 @@
 # Sum of Odd Cubed Numbers
 
 Problem Domain: 
-Find the sum of the odd numbers within an array, after cubing the initial integers. This function will return undefined (NULL in PHP) if any of the values aren't numbers.
+Find the sum of the odd numbers within an array, after cubing the initial integers. Return undefined if any array contains non-integers.
